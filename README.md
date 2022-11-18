@@ -2,10 +2,14 @@
 
 Aplicação de exemplo para demonstrar como funcionam shaders e WebGPU.
 
-## Como rodar
-
+## Requisitos
 ### Necessário usar o [Chorme Canary](https://www.google.com/intl/pt-BR/chrome/canary/) com as flags de WebGPU
+Habilite as flags:
+1. Acesse a url [chrome://flags](chrome://flag) no Chrome
+2. Procure por "WebGPU" 
+3. Habilite as flags "Unsafe WebGPU" e "WebGPU Developer Features"
 
+## Como rodar
 Rodar os comandos:
 ```
 $ npm i
