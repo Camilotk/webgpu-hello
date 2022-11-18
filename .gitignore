@@ -1,0 +1,22 @@
+# libs
+node_modules
+
+# out
+dist/main.bundle.js
+dist/main.bundle.js.LICENSE.txt
+dist/main.bundle.js.map
+
+# wb
+.webpack/
+
+# code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+.history/
+*.vsix
+.history
+.ionide
