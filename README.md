@@ -19,3 +19,5 @@ $ npm run prod
 $ npm run serve
 ```
 > Por algum motivo `$ npm run watch` dá erro de build. Use `$ npm run prod` sempre.
+
+E acessar [http://localhost:8000/](http://localhost:8000/).
