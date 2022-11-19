@@ -5,7 +5,7 @@ Aplicação de exemplo para demonstrar como funcionam shaders e WebGPU.
 ![](./dist/triangulo.png)
 
 ## Requisitos
-### Necessário usar o [Chorme Canary](https://www.google.com/intl/pt-BR/chrome/canary/) com as flags de WebGPU
+### Necessário usar o [Chrome Canary](https://www.google.com/intl/pt-BR/chrome/canary/) com as flags de WebGPU
 Habilite as flags:
 1. Acesse a url [chrome://flags](chrome://flag) no Chrome
 2. Procure por "WebGPU" 
